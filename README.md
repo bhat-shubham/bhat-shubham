@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Packet Sniffer Using Python**
 
-- 🌱 I’m currently learning **DSA,Cybersecurity**
+- 🌱 I’m currently learning **DSA,Cybersecurity,JavaScript,GSAP**
 
 - 👯 I’m looking to collaborate on **Projects**
 
