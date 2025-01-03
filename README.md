@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA,Cybersecurity,JavaScript,GSAP**
 
-- 👯 I’m looking to collaborate on **Any Projects That Alig With My Interests**
+- 👯 I’m looking to collaborate on **Any Projects That Align With My Interests**
 
 - 💬 Ask me about **Anything**
 
