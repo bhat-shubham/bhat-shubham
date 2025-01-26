@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhat-shubham" alt="bhat-shubham" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/i_amshubham7777" target="blank"><img src="https://img.shields.io/twitter/follow/i_amshubham7777?logo=twitter&style=for-the-badge" alt="i_amshubham7777" /></a> </p>
-
 - 🔭 I’m currently working on **Packet Sniffer Using Python**
 
 - 🌱 I’m currently learning **DSA,Cybersecurity,JavaScript,GSAP**
