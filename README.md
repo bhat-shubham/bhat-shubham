@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhat-shubham" alt="bhat-shubham" /></a> </p>
 
-- 🔭 I’m currently working on **Packet Sniffer Using Python**
+- 🔭 I’m currently trying contributing to **Open Source Organisations**
 
 - 🌱 I’m currently learning **DSA,Cybersecurity,JavaScript,GSAP**
 
