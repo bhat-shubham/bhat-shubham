@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently trying contributing to **Open Source Organisations**
 
-- 🌱 I’m currently learning **DSA,Cybersecurity,JavaScript,GSAP**
+- 🌱 I’m currently learning **DSA,Cybersecurity,Next.JS,GSAP**
 
 - 👯 I’m looking to collaborate on **Any Projects That Align With My Interests**
 
